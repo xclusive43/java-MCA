@@ -1,6 +1,8 @@
 //Q2.Write a program using parameterized constructor with two parameters id and name. While
 //creating the objects obj1 and obj2 passed two arguments so that this constructor gets invoked
 //after creation of obj1 and obj2. 
+
+//Author : Ajay Prajapati
 public class  paraconstructor{
 	
 	int id;
