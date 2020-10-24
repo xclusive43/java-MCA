@@ -1,4 +1,4 @@
- 
+ //Author : Ajay Prajapati
  
 import java.util.*;
  class Rational{
