@@ -1,6 +1,7 @@
 //Q1.Write a program to create a class Student along with two method getData(),printData()
 //to get the value through argument and display the data in printData function . Create the
 //two objects s1 ,s2 to declare and access the values from class Test.
+//Author : Ajay Prajapati
 class Student{
 		  String name,course;
 		  int id;
